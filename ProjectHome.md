@@ -1,3 +1,5 @@
+NOTE this project has not been updated since 2008! see https://github.com/trousev/html2fb2 which has been updated more recently.
+
 Python library and tools to convert from html file into FictionBook  2 (XML) format. Command line and GUI version. Check out the GettingStarted guide.
 
 See http://haali.cs.msu.ru/pocketpc/FictionBook_description.html for more information on FictionBook format. For other input formats (non-html) consider taking a look at http://code.google.com/p/ooofbtools/ which uses Open Office (which provides support for many more input formats).
