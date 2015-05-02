@@ -15,4 +15,4 @@ Includes any2fb which makes use of the h2fb library and supports:
   * .rtf file input
   * .lit file input
 
-![http://html2fb.googlecode.com/svn/wiki/any2fb_screenshot1.png](http://html2fb.googlecode.com/svn/wiki/any2fb_screenshot1.png)
+![https://raw.githubusercontent.com/clach04/html2fb/wiki/any2fb_screenshot1.png](https://raw.githubusercontent.com/clach04/html2fb/wiki/any2fb_screenshot1.png)
